@@ -1,4 +1,8 @@
 ra agasrbVFASCasdadsasd
 asdasdasd
+<<<<<<< HEAD
 ttttttt
 <h1> master</h1>
+=======
+ttttttt
+>>>>>>> branch
