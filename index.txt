@@ -11,5 +11,6 @@ index.html
 	<h1>Git의 쉬운 사용법</h1>
 	<li>branch</li>
 	<li>master</li>
+	<li>choo2</li>
 </body>
 </html>
