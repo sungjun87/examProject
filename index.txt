@@ -10,5 +10,6 @@ index.html
 	<h1>master</h1>
 	<h1>Git의 쉬운 사용법</h1>
 	<li>branch</li>
+	<li>branch2</li>
 </body>
 </html>
