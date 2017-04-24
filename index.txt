@@ -1,8 +1,14 @@
-ra agasrbVFASCasdadsasd
-asdasdasd
-<<<<<<< HEAD
-ttttttt
-<h1> master</h1>
-=======
-ttttttt
->>>>>>> branch
+index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Git 사용법</title>
+</head>
+<body>
+	<h1>master</h1>
+	<h1>Git의 쉬운 사용법</h1>
+	<li>branch</li>
+</body>
+</html>
