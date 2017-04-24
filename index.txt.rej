@@ -1,0 +1,9 @@
+diff a/index.txt b/index.txt	(rejected hunks)
+@@ -10,6 +10,7 @@
+ 	<h1>master</h1>
+ 	<h1>Git�� ���� ����</h1>
+ 	<li>branch</li>
++<<<<<<< HEAD
+ 	<li>branch2</li>
+ =======
+ 	<li>master</li>
